@@ -1,4 +1,4 @@
-//Problem: Longest Common Subsequence
+//Problem: Longest Planicdromic Subsequence
 //GFG
 class Solution {
     public int longestPalinSubseq(String s) {
